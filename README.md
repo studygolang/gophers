@@ -16,7 +16,7 @@
 | 李文周         | 博客：https://www.liwenzhou.com                              |
 | 李晓钧         | 《深入学习Go语言》作者                                       |
 | 毛剑           | 国内早期的 Go 语言布道者，多次为 GopherChina 演讲者          |
-|                | 博客：https://www.maxlivinci.com，来自台湾同胞的 gopher      |
+| Max           | 博客：https://www.maxlivinci.com，来自台湾同胞的 gopher      |
 | 戚银           | 博客：https://blog.thinkeridea.com                           |
 | 饶成全         | 公众号：码农桃花源，博客：https://qcrao.com，写的 Go 语言文章很多干货！ |
 | RyuGou         | 公众号：互联网技术窝，博客：https://juejin.im/user/58a1e72161ff4b006b5530ac |
