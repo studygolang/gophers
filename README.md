@@ -5,16 +5,20 @@
 
 | 姓名           | 贡献、公众号或博客地址                                       |
 | -------------- | ------------------------------------------------------------ |
+| 白明 tonybai   | 公众号：TonyBai，博客：https://tonybai.com                   |
 | 波罗学         | 公众号：码神路漫漫，博客：https://segmentfault.com/blog/poloxue-code |
 | 陈佳桦 无闻    | Gogs 作者，开源了很多优秀的项目，国内早期的 Go 语言布道者！  |
 | 柴树杉         | 《Go语言圣经》译者，《Go语言高级编程》作者，公众号：光谷码农，人称柴大 |
 | 曹春晖 Xargin  | 《Go语言高级编程》作者，博客：http://xargin.com ，人称曹大   |
 | 程贵禄         | 公众号：Golang来啦                                           |
+| 陈剑煜 煎鱼    | 公众号：我要煎鱼说，博客：https://book.eddycjy.com/golang/   |
 | 大彬           | 公众号：Go语言充电站，博客：http://lessisbetter.site         |
-| 陈剑煜 煎鱼    | 公众号：煎鱼说，博客：https://book.eddycjy.com/golang/       |
+| 枫林无归       | 公众号：雪之梦技术驿站，博客：https://snowdreams1006.github.io |
+| JackieZheng    | 公众号：JackieZheng ，博客园：http://www.cnblogs.com/bigdatazj ，掘金：https://juejin.im/user/5a0da9376fb9a0452b48cbba |
 | 刘建平         | 博客：https://www.gitdig.com                                 |
 | 李文周         | 博客：https://www.liwenzhou.com                              |
 | 李晓钧         | 《深入学习Go语言》作者                                       |
+| LX 老貘        | 《Go101》作者，对Go语言细节了如指掌。公众号：Go 101          |
 | 毛剑           | 国内早期的 Go 语言布道者，多次为 GopherChina 演讲者          |
 | Max            | 博客：https://www.maxlivinci.com ，来自台湾同胞的 gopher     |
 | 戚银           | 博客：https://blog.thinkeridea.com                           |
