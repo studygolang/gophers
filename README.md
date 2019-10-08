@@ -14,7 +14,7 @@
 | 陈剑煜 煎鱼    | 公众号：我要煎鱼说，博客：https://book.eddycjy.com/golang/   | <img src="qrcode/我要煎鱼说.jpg" width="128px">              |
 | 大彬           | 公众号：Go语言充电站，博客：http://lessisbetter.site         | <img src="qrcode/大彬-Go语言充电站.jpg" width="128px">       |
 | Draven         | 公众号：真没什么逻辑，博客：https://draveness.me/            | <img src="qrcode/真没什么逻辑.png" width="128px">            |
-| 枫林无归       | 公众号：雪之梦技术驿站，博客：https://snowdreams1006.github.io |                                                              |
+| 枫林无归       | 公众号：雪之梦技术驿站，博客：https://snowdreams1006.github.io | <img src="qrcode/雪之梦技术驿站.png" width="128px">          |
 | JackieZheng    | 公众号：JackieZheng ，博客园：http://www.cnblogs.com/bigdatazj ，掘金：https://juejin.im/user/5a0da9376fb9a0452b48cbba |                                                              |
 | 刘建平         | 博客：https://www.gitdig.com                                 |                                                              |
 | 李文周         | 博客：https://www.liwenzhou.com                              |                                                              |
