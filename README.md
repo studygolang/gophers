@@ -5,13 +5,13 @@
 
 | 姓名           | 贡献、公众号或博客地址                                       | 二维码                                                       |
 | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 白明 tonybai   | 公众号：TonyBai，博客：https://tonybai.com                   | <img src="qrcode/tonybai.jpg" width="128px">                 |
+| tonybai   | 公众号：TonyBai，博客：https://tonybai.com                   | <img src="qrcode/tonybai.jpg" width="128px">                 |
 | 波罗学         | 公众号：码途漫漫，博客：http://poloxue.com/                  | <img src="qrcode/波罗学-码途漫漫.png" width="128px">         |
-| 陈佳桦 无闻    | Gogs 作者，开源了很多优秀的项目，国内早期的 Go 语言布道者！  |                                                              |
+| 无闻    | Gogs 作者，开源了很多优秀的项目，国内早期的 Go 语言布道者！  |                                                              |
 | 柴树杉         | 《Go语言圣经》译者，《Go语言高级编程》作者，公众号：光谷码农，人称柴大 |                                                              |
-| 曹春晖 Xargin  | 《Go语言高级编程》作者，博客：http://xargin.com ，人称曹大   |                                                              |
-| 程贵禄         | 公众号：Golang来啦                                           | <img src="qrcode/Golang来啦.jpg" width="128px">              |
-| 陈剑煜 煎鱼    | 公众号：我要煎鱼说，博客：https://book.eddycjy.com/golang/   | <img src="qrcode/我要煎鱼说.jpg" width="128px">              |
+| Xargin  | 《Go语言高级编程》作者，博客：http://xargin.com ，人称曹大   |                                                              |
+| SeekLoad         | 公众号：Golang来啦                                           | <img src="qrcode/Golang来啦.jpg" width="128px">              |
+| 煎鱼    | 公众号：我要煎鱼说，博客：https://book.eddycjy.com/golang/   | <img src="qrcode/我要煎鱼说.jpg" width="128px">              |
 | 大彬           | 公众号：Go语言充电站，博客：http://lessisbetter.site         | <img src="qrcode/大彬-Go语言充电站.jpg" width="128px">       |
 | Draven         | 公众号：真没什么逻辑，博客：https://draveness.me/            | <img src="qrcode/真没什么逻辑.png" width="128px">            |
 | 枫林无归       | 公众号：雪之梦技术驿站，博客：https://snowdreams1006.github.io | <img src="qrcode/雪之梦技术驿站.png" width="128px">          |
@@ -28,7 +28,7 @@
 | 盛傲飞         | https://goproxy.cn 作者，速度超快的 Go 语言 proxy            |                                                              |
 | 陶克路         | 公众号：golang-experts，博客：http://legendtkl.com/          |                                                              |
 | 王博           | 公众号：火丁笔记，博客：https://blog.huoding.com             | <img src="qrcode/huoding.jpg" width="128px">                 |
-| 徐新华 polaris | Go语言中文网站长，公众号：Go语言中文网，网站：https://studygolang.com | <img src="qrcode/Go语言中文网.jpg" width="128px">            |
+| polaris | Go语言中文网站长，公众号：Go语言中文网，网站：https://studygolang.com | <img src="qrcode/Go语言中文网.jpg" width="128px">            |
 | 肖仑文 lunny   | Gitea、Xorm 作者，国内早期的 Go 语言布道者！                 |                                                              |
 | 闫磊磊         | 博客：https://leileiluoluo.com                               |                                                              |
 | 于德志         | 博客：https://halfrost.com ，算法大师                        |                                                              |
