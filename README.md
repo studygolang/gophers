@@ -10,6 +10,7 @@
 | 无闻    | Gogs 作者，开源了很多优秀的项目，国内早期的 Go 语言布道者！  |                                                              |
 | 柴树杉         | 《Go语言圣经》译者，《Go语言高级编程》作者，公众号：光谷码农，人称柴大 |                                                              |
 | Xargin  | 《Go语言高级编程》作者，博客：http://xargin.com ，人称曹大   |                                                              |
+| 芮峰云| 博客：http://xiaorui.cc/   |                                                              |
 | SeekLoad         | 公众号：Golang来啦                                           | <img src="qrcode/Golang来啦.jpg" width="128px">              |
 | 煎鱼    | 公众号：我要煎鱼说，博客：https://book.eddycjy.com/golang/   | <img src="qrcode/我要煎鱼说.jpg" width="128px">              |
 | 大彬           | 公众号：Go语言充电站，博客：http://lessisbetter.site         | <img src="qrcode/大彬-Go语言充电站.jpg" width="128px">       |
