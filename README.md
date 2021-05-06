@@ -25,6 +25,7 @@
 | Max            | 博客：https://www.maxlivinci.com ，来自台湾同胞的 gopher     |                                                              |
 | 戚银           | 博客：https://blog.thinkeridea.com                           |                                                              |
 | 饶全成         | 公众号：码农桃花源，博客：https://qcrao.com ，写的 Go 语言文章很多干货！ | <img src="qrcode/饶全成-码农桃花源.png" width="128px">       |
+| roseduan      | 开源项目 rosedb 作者，Github：https://github.com/roseduan ，公众号：roseduan写字的地方 | <img src="https://i.loli.net/2021/05/06/tGTH7SXg8w95slA.jpg" width="128px"/> |
 | RyuGou         | 公众号：互联网技术窝，博客：https://i6448038.github.io/ |    <img src="qrcode/RyuGou-互联网技术窝.jpg" width="128px">                                                          |
 | 盛傲飞         | https://goproxy.cn 作者，速度超快的 Go 语言 proxy            |                                                              |
 | 陶克路         | 公众号：golang-experts，博客：http://legendtkl.com/          |                                                              |
